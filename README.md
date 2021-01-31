@@ -1,2 +1,2 @@
 # CodeForces
-Solution to CodeForces exercises
+Solution to CodeForces exercises with Python
